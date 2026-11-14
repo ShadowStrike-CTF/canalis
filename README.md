@@ -1,6 +1,6 @@
 # canalis
 
-Data channel and engine for the Strategos legal research ecosystem. by Strategos.
+Strategos tool. Coming soon.
 
 GitHub: https://github.com/ShadowStrike-CTF/canalis
 
